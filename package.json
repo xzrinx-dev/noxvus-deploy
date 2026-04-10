@@ -1,0 +1,14 @@
+{
+  "name": "noxvus-deploy",
+  "version": "1.0.0",
+  "description": "NOXVUS — Instant Web Deploy by @xzrinx",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "multiparty": "^4.2.3",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.0"
+  }
+}
